@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const consumerKey = "ck_82f258005d0ea81f114eb86166c944a43c8b72b6";
-  const consumerSecret = "cs_110c3467452f31148c33eefa6f120c5e777582ca";
+  const consumerKey = "ck_44631ccca9fcdd17de04c6bfd4d8cd258dc543b9";
+  const consumerSecret = "cs_5c6032ffa842edbc67de9371e1cd1503f0c2e682";
   const url = "http://localhost/wordpress/wp-json/wc/v3/products";
   fetch(url, {
     method: "GET",

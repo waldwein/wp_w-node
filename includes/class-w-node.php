@@ -36,7 +36,7 @@ class W_Node
     private function load_dependencies() {
         // Core functionality
         require_once W_NODE_PLUGIN_DIR . 'includes/class-w-node-loader.php';
-        require_once W_NODE_PLUGIN_DIR . 'includes/class-w-node-posts.php';
+        require_once W_NODE_PLUGIN_DIR . 'includes/class-w-node-posts.php'; 
         // require_once W_NODE_PLUGIN_DIR . 'includes/class-w-node-products.php';
 
         // Admin page
